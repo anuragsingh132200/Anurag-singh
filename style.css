@@ -91,7 +91,12 @@ a:hover{
     font-size: 2vh;
     font-family: cursive;
     font-weight: bold;
+   
     box-shadow: 0 2px 5px rgba(1, 1, 1, 0.1);
+}
+.portfolio:hover{
+    transform:translate(-1%,-2%);
+    background-color: #fff;
 }
 .links{
     transform:translate(-1%,-4%);
